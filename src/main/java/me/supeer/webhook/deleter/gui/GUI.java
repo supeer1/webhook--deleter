@@ -9,7 +9,7 @@ package me.supeer.webhook.deleter.gui;
  */
 
 
-import com.sun.javaws.Main;
+import me.supeer.webhook.deleter.Main;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
